@@ -1,4 +1,7 @@
-# PruebaGit-ifabela
+# Clase Git - Prueba Grupal
 
+Vamo a crear un conflicto 👍
 
-Cristian Velez - Bogota, Colombia 🇨🇴 - cristian.velez@mercadolibre.com.co
+Israel Fabela | México 🇲🇽 | israel.fabela@mercadolibre.com.mx
+Arturo Carmona, Ciudad de México, miguel.carmona@mercadolibre.com.mx
+Cristian Velez - Bogota, Colombia 🇨🇴 - cristian.velez@mercadolibre.com
