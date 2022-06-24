@@ -1,1 +1,9 @@
 Esto es un texto para archivo1-israelfp
+
+public class Ejemplo {
+    public static void Main() {
+        Console.WriteLine("Hola");
+    }
+}
+
+modificado por mcarrasco
